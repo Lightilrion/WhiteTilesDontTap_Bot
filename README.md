@@ -9,7 +9,7 @@
  You can download an already compiled version, which is in the folder compiled. 
 # Running
  1. Go to donttap.com on your browser
- 2. Drag the browser window to your primary monitor
+ 2. Drag the browser window to your primary monitor and maximize it
  3. Open the terminal in the directory you put your executable
  4. Paste the command "start Whitetiledontclick.exe -NoNewWindow" to the terminal
  5. Start the frenzy mode on donttap.com
