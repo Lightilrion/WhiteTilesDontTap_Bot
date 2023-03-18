@@ -3,4 +3,4 @@
 # Compiling
  You have to compile this project in x64.
 # Installing
- You can download a already compiled version, which is in the folder compiled. 
+ You can download an already compiled version, which is in the folder compiled. 
