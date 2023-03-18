@@ -1,5 +1,8 @@
 # WhiteTilesDontTap_Bot
- A bot for donttap.com. For now it only works on windows.
+ A bot for donttap.com.
+# Requirements
+ - windows 10 / 11
+ - compilers compatible with x64 (if you want to compile it yourself)
 # Compiling
  You have to compile this project in x64.
 # Installing
