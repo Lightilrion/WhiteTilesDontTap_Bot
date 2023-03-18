@@ -2,6 +2,7 @@
 #include <iostream>
 #include <windows.h>
 using namespace std;
+//calculating screen relative coordinates, these are for a 1920x1080 monitor
 double fx1 = 65535.0f / 1919.0f;
 double fy1 = 65535.0f / 1079.0f;
 int main()
