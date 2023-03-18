@@ -1,8 +1,6 @@
 
 #include <iostream>
 #include <windows.h>
-#include <vector>
-#include <fstream>
 using namespace std;
 double fx1 = 65535.0f / 1919.0f;
 double fy1 = 65535.0f / 1079.0f;
